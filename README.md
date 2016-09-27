@@ -2,7 +2,7 @@
 
 Note taking made simpler.
 
-[Showcase Image](showcase.png)
+<img src="showcase.png" />
 
 ### Download
 
