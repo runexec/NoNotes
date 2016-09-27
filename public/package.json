@@ -1,0 +1,13 @@
+{
+    "name": "NoNotes",
+    "version": "0.0.1",
+    "main": "js/pdf.js/web/viewer.html",
+    "window": {
+	"title": "NoNotes",
+	"min_width": 800,
+	"min_height": 600
+    },
+    "webkit": {
+	"plugin": true
+    }
+}

@@ -1,0 +1,92 @@
+body {
+    height: 95%;
+}
+
+div.editor-toggle button {
+
+    padding: 5px;
+}
+
+#noteInput {
+    font-size: large;
+    color: rgb(180,160,180);
+    background:rgb(20,0,0);
+}
+
+.annotation {
+    font-size: 12px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    margin: 1px;
+    padding: 2px 6px;
+}
+
+a.note-started {
+    color: rgb(180,10,10);
+    margin: 10px 5px 10px 5px;
+    border-style: none;
+    font-style: italic;
+}
+
+a.note-started:hover {
+    text-decoration: none;
+}
+
+a.page-link:hover {
+    color: #FFFFFF;
+    background: rgb(190,60,100);
+}
+
+a.page-link {
+    margin: 10px 5px 10px 5px;
+    background: #FFFFFF;
+    color: rgb(190,60,100);
+}
+
+a.page-book {
+    margin: 10px 5px 10px 5px;
+    color: rgb(150,50,100);
+    border-style: none none solid none;
+    margin-left: 4px;
+}
+
+a.page-book:hover {
+    background: rgb(150,50,100);
+    color: #FFFFFF;
+}
+
+.aboutTable tr td {    
+    text-align: left;
+    margin: 20px;
+    padding: 5px;
+}
+
+
+td {
+    vertical-align: top;
+}
+
+h1, h2, h3 {
+  color: #000;
+}
+h1 {
+  font-size: 2.5em
+}
+
+h2 {
+  font-size: 2em
+}
+
+h3 {
+  font-size: 1.5em
+}
+
+a {
+  text-decoration: none;
+  color: #09f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
