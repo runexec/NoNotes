@@ -6,13 +6,13 @@ Note taking made simpler.
 
 ### Download
 
-[Linux 64-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-linux64-v0.1.0-SNAPSHOT.zip)
+[Linux 64-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-linux64-v0.1.0-SNAPSHOT.zip?raw=true)
 
 
-[OSX 64-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-osx64-v0.1.0-SNAPSHOT.zip)
+[OSX 64-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-osx64-v0.1.0-SNAPSHOT.zip?raw=true)
 
 
-[Windows 32-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-win-v0.1.0-SNAPSHOT.zip)
+[Windows 32-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-win-v0.1.0-SNAPSHOT.zip?raw=true)
 
 ### Linux & Mac 64-bit instructions
 
