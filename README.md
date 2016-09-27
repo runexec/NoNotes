@@ -4,6 +4,8 @@ Note taking made simpler.
 
 <img src="showcase.png" />
 
+Supports markdown, html, and regular text.
+
 ### Download
 
 [Linux 64-bit](builds/NoNotes-v0.1.0-SNAPSHOT/NoNotes-linux64-v0.1.0-SNAPSHOT.zip?raw=true)
