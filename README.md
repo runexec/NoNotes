@@ -24,7 +24,7 @@ Supports markdown, html, and regular text.
 
 2. Run
 
-`cd NoNotes; chmod +x nw; ./nw'
+`cd NoNotes; chmod +x nw; ./nw`
 
 ### Windows instructions
 
